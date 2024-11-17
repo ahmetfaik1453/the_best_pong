@@ -1,6 +1,9 @@
 World's Best Pong Game
 This project is a unique, dynamic Pong game created using Python and the Pygame library. It includes features such as paddle and ball movement, score tracking, defeat effects, and randomized colors. The game operates in fullscreen mode and has unique sound effects and graphical enhancements.
 
+## Proje Tanıtım Videosu
+[![Proje Tanıtım Videosu](https://img.youtube.com/vi/hn_gg3SH86s/0.jpg)](https://youtu.be/hn_gg3SH86s)
+
 Features
 Full-Screen Gameplay: The game automatically adjusts to your screen size for an immersive experience.
 Dynamic Colors and Effects: Uses dynamic colors based on time, creating a vibrant and evolving visual experience.
